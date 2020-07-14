@@ -27,6 +27,7 @@ dependencies:
   flutter_modular: ^1.2.7+1
   flutter:
     sdk: flutter
+  slidy: ^2.1.2+2
 
 
   # The following adds the Cupertino Icons font to your application.

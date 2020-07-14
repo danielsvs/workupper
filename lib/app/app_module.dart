@@ -2,7 +2,7 @@ import 'package:workupper/app/app_controller.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:flutter/material.dart';
 import 'package:workupper/app/app_widget.dart';
-import 'package:workupper/app/modules/home/home_module.dart';
+import 'package:workupper/app/modules/start/start_module.dart';
 
 class AppModule extends MainModule {
   @override
@@ -12,7 +12,7 @@ class AppModule extends MainModule {
 
   @override
   List<Router> get routers => [
-        Router(Modular.initialRoute, module: HomeModule()),
+        Router(Modular.initialRoute, module: StartModule()),
       ];
 
   @override
