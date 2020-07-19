@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579725840464",
+    "firebase_url": "https://workupper-1d169.firebaseio.com",
+    "project_id": "workupper-1d169",
+    "storage_bucket": "workupper-1d169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579725840464:android:e6a5a197dcea232f4e0155",
+        "android_client_info": {
+          "package_name": "com.dvs.workupper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579725840464-82o8qt36211pd3m546b793ljifoneude.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvs.workupper",
+            "certificate_hash": "7ad8a6838be644943923e9e07ef7f9e9c6b7576e"
+          }
+        },
+        {
+          "client_id": "579725840464-kdgsb5la522huat4colfd0n9l4nlpqvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8O9KLWQ10YL_RfSujdwIPxe7M51q6Gpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579725840464-kdgsb5la522huat4colfd0n9l4nlpqvv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

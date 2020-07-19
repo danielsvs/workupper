@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class StartPage extends StatefulWidget {
-  final String title;
-  const StartPage({Key key, this.title = "Start"}) : super(key: key);
+  
+  // final String title;
+  // const StartPage({Key key, this.title = "Start"}) : super(key: key);
 
   @override
   _StartPageState createState() => _StartPageState();
@@ -49,7 +50,7 @@ class _StartPageState extends State<StartPage> {
                     ),
                     color: Colors.white,
                     onPressed: (){
-                      // Navigator.pushNamed(context, '/signup');
+                      Navigator.pushNamed(context, '/signup');
                     },
                   ),
                 ),
